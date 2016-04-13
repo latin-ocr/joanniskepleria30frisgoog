@@ -1,0 +1,66 @@
+mm . ¹49
+
+extremm et· mediam rationem secti maJus segmentum AD ru. ιι.
+
+est latus decanguli, qnod eidem AB circulo inscribi potest. l g
+
+«Iunctae igitur potentiae Ac radii totius et AD majoris seg- Δ ⁴*
+
+menti hujus, faciunt potentiam EF lateris quinquangularis in
+
+illo circulo (Eucl. XIII, 10). Quod cum sit inter duos W*
+Ι», · .
+
+iieosaedri6 angulos, erit utique latus icosaedri (Eucl. XIII,
+1 et 1 ).
+
+Habemus latera omnium figurarum in proportione ad axin orbis cir-
+cumscripti. Sequitur ut radios circulorum qui basibus circumscribuntur in-
+vestigemus. ex jam notis lateribus: id quod adminiculo sinuum facillime
+assequetur quilibet, qui reputabit, bic exquisitissimis numeris non opus esse.
+Si tamen alicui placet artificiosius laborare, ei fundamenta rei ex Euclide
+apponam. Cum igitur tres saltem formae sint basium, triangula, quadrangula,
+quinquangula: in triangularibus quidem latus GH (fig. 18.) potest triplum
+quaesiti radii HI, per 12. saepe allegati: in quadrato latus potest duplum
+quaesiti radii: in quinquangulo denique GH lateris et KH sub- ne. 2⁰·
+tendent-is (datarum linearum) junctae potentiae possunt quin- Ι
+
+tuplum radii HI quaesiti, per 4. decimi quarti secundum Cam-nal X
+panum. Habemus radios circulorum in basibus in eadem
+‘ proportione, qua latera. x
+Subtractis igitur potentiis radiorum de -potentia sinus
+
+totius, qui est quantitas semidiametri sive radii in circum· ³*
+scripto, restabunt ut supra probatum est potentiae radiorum quos quae-
+rimus, inscriptorum scilicet orbium. Commodius tamen et facilius uteri5‚
+ut dixi, sinubuS.
+
+Sed hic neque alia quaedam praetereunda compendia, ne nimium ope-
+rose laboremus, Primum orbes inscripti dodecaedro et icosaedro sunt ejus-
+
+’ dem amplitudinis, si figurae eidem orbi inscribantur. Habent enim bases ι
+
+utriusque figurae eundem radium (Eucl. XIV, 2). Idem judicium esto de
+cubo et octaedro. Nam axis potest triplum cubici lateris, et hoc duplum
+radii in basi, ergo axis potest sextuplum radii ³¹², basi: in octaedro vicis-
+sim axis potest duplum lateriS‚ et hoc triplum radii in basi. Potest ergo
+etiam hic axis sextuplum radii. Cum ergo sit ex hypothesi idem radius
+circumscriptorum sive ΗΟ (fig. 18) sitque idem etiam radius basium HI,
+et HIO semper rectus: ergo etiam radius inscriptorum, tertium nempe latus
+01, idem erit (Euel. I, 26 conv.). Quare habitis cubi et icosaedri inscri-
+ptis, de octaedro et dodecaedro nibil opus inquirere.
+
+Deinde in cubo cum ipsum latus sit altitudo figurae, dimidium latus
+dimidia erit altitud0, nempe linea connectens centra figurae et basis. Nil
+igitur opus inquisitione radii in basi. ’-
+
+Tertio octaedri et pyramidis aequalium laterum est eadem altitudo. ⁸)
+Quanto majus igitur latus pyramidis, tanto altior etiam ipsa figura. Item
+octaedron et pyramis duplo majorum laterum habent eundem.orbem inscri-
+ptum. Nam pyramis si secetur mediis lateribuS, concidit in quatuor pyra· ·
+midas et octaedron unum duplo minorum laterum. Cumque pyramis ha.- ·
+beat quatuor facies, nulli earum resecta pyramis minor adimit centrum,
+utpote quod sectione longe inferius est: manet igitur in octaedro exsecto
+orbis inscriptus, antiqua quatuor centra et per definitionem regularis eorporis
+etiam nova quatuor ex sectione accedentia simul tangens. Sive igitur py-
+
